@@ -31,8 +31,8 @@ O Modelo Cascata foi o primeiro modelo adotado pela engenharia de software, onde
 
 | Vantagens | Desvantagens 
 | :------------------ | :----------: |
-| Minimiza o tempo de planejamento|Funciona bem para equipes tecnicamente mais fracas.|
-|Inflexível. |Apenas a fase final produz um deliverable que não é um documento.|
+| Minimiza o tempo de planejamento|Inflexível.|
+|Funciona bem para equipes tecnicamente mais fracas. |Apenas a fase final produz um deliverable que não é um documento.|
 
 _____________________________________________________________
 
@@ -52,11 +52,18 @@ Proposto por Barry Bohem em 1988, o modelo em espiral combina as iterações do 
 <img src = https://1.bp.blogspot.com/-P5FeKl0_y-4/UZTiAH6t4JI/AAAAAAAAACs/ZpDrqqCUl3g/s320/modeloespiral.JPG>
 </div>
 
-_____________________________________________________________
+| Vantagens | Desvantagens 
+| :------------------ | :----------: |
+| Estimativas tornam-se mais realísticas|Muita ênfase a parte funcional|
+|Mais versátil para lidar com mudanças |A avaliação dos riscos exige experiência.|
+|Melhora o tempo de implementação do sistema| É bem aplicado somente a sistemas de larga escala|
+|Não faz distinção entre desenvolvimento e manutenção.| O modelo é relativamente novo e não tem sido muito utilizado.|
+
+____________________________________________________________
 
 ## <center>Metodologia Mista</center>
 
-<h6> A metodologia clássica mista no desenvolvimento de sistemas combina elementos das metodologias tradicionais e ágeis para tirar proveito de suas vantagens.</h6>
+ A metodologia clássica mista no desenvolvimento de sistemas combina elementos das metodologias tradicionais e ágeis para tirar proveito de suas vantagens.
 
 **Planejamento inicial detalhado**: Assim como nas metodologias tradicionais, a metodologia clássica mista começa com um planejamento detalhado das etapas do projeto, incluindo requisitos, cronograma e orçamento.
 
