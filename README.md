@@ -22,7 +22,7 @@
 
 ## <center> Metodologia Cascata (Waterfall):</center>
 
-O Modelo Cascata foi o primeiro modelo adotado pela engenharia de software, onde ele consiste em fases lineares dependentes umas das outras (Leia-se sequencial), não se começa uma fase sem antes terminar a anterior, assim a medida que o projeto avança alguns membros da equipe se deparam com o que podemos chamar de estado de bloqueio, já que eles depende do termino de toda a fase para o inicio da próxima etapa, isso sem contar com o grande problema que se encontra caso seja necessário alguma modificação no decorrer do projeto, por isso nos dias de hoje é quase que inviável utilizar esse modelo, sendo ele utilizado apenas para projetos onde os requisitos são fixos e o projeto pode seguir de maneira linear.
+O Modelo Cascata foi o primeiro modelo adotado pela engenharia de software, onde ele consiste em fases lineares dependentes umas das outras (Leia-se sequencial), não se começa uma fase sem antes terminar a anterior, assim a medida que o projeto avança alguns membros da equipe se deparam com o que podemos chamar de estado de bloqueio, já que eles depende do termino de toda a fase para o inicio da próxima etapa, isso sem contar com o grande problema que se encontra caso seja necessário alguma modificação no decorrer do projeto, por isso nos dias de hoje é quase que inviável utilizar esse modelo, sendo ele utilizado apenas para projetos onde os requisitos são fixos e o projeto pode seguir de maneira linear. 
 
 <div align="center">
 <img src = https://2.bp.blogspot.com/-e2uSJsjYyrE/UYjt7Q43BlI/AAAAAAAAAAc/S167c3aNIk0/s320/modeloemcascata1.jpg>
@@ -83,3 +83,10 @@ ___
 
 A metodologia clássica de gestão de projetos segue uma abordagem linear, onde as etapas do projeto são planejadas e executadas sequencialmente, desde a definição de requisitos até a entrega do produto final. Destaca-se pelo planejamento detalhado, controle rígido de mudanças, documentação completa, foco na qualidade e gestão proativa de riscos. Embora outras metodologias mais ágeis tenham ganhado popularidade, a abordagem clássica ainda é aplicada em projetos com requisitos estáveis e bem compreendidos desde o início.
 
+___
+
+## FONTES:
+
+https://metodologiasclassicas.blogspot.com/p/modelo-em-cascata.html
+
+https://www.objective.com.br/insights/diferencas-metodologia-tradicional-e-agil/
